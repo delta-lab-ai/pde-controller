@@ -1,0 +1,16 @@
+{
+    "dataset_name": "few_shot_examples_one_d_heat",
+    "seed_used": 0,
+    "test_split": 0.1,
+    "training_set_size": 2,
+    "test_set_size": 0,
+    "training_set_keys": [
+        "nl",
+        "sstl",
+        "python"
+    ],
+    "test_set_keys": [],
+    "combined_files": [
+        "examples.jsonl"
+    ]
+}

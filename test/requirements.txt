@@ -1,0 +1,16 @@
+torch==2.4.0
+tensorflow
+transformers
+wandb
+beautifulsoup4
+torchvision
+tqdm
+tensorboard
+flash-attn
+trl
+vllm=0.2.0
+deepspeed
+tf_keras
+torchaudio
+peft
+Pebble
